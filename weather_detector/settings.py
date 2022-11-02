@@ -28,7 +28,8 @@ SECRET_KEY = 'django-insecure-eg+=a=0qg+xem&0bla@21wl!k)!f@m8#y63q@3tex^*!*!$v)m
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'weather-detector-python.herokuapp.com'
+    'weather-detector-python.herokuapp.com',
+    '127.0.0.1',
 ]
 
 
